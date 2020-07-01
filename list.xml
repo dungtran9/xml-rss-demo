@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+    <channel>
+        <title>VNExpress</title>
+        <link> https://vnexpress.net/rss</link>
+    </channel>
+    <channel>
+        <title>Zing News RSS</title>
+        <link> https://news.zing.vn/rss/tin-moi.rss</link>
+    </channel>
+    <channel>
+        <title>Tuổi Trẻ Online RSS</title>
+        <link>https://tuoitre.vn/rss.html</link>
+    </channel>
+    <channel>
+        <title>Dân Trí RSS</title>
+        <link>http://dantri.com.vn/rss.html</link>
+    </channel>
+    <channel>
+        <title>Tinh Tế</title>
+        <link>http://tinhte.vn/rss</link>
+    </channel>
+
+</list>
